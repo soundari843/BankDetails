@@ -16,6 +16,10 @@ public class RbiBank extends StateBank{
 		r.savings();
 		r.deposite();
 	}
+	private void loan() {
+		System.out.println("Loan: 5%");
+
+	}
 		
 	
 
